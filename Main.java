@@ -9,7 +9,7 @@ class Main{
 
         System.out.println("Hello this is Raghuvanshi");
 
-        Sysout.out.println("This is jenkins magic tell woooh ");
+        System.out.println("This is jenkins magic tell woooh ");
 
 
     }
