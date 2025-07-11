@@ -11,6 +11,8 @@ class Main{
 
         System.out.println("This is jenkins magic tell woooh ");
 
+        Student st=new Student();
+        st.sayHello();
 
     }
 
